@@ -2,16 +2,16 @@ TC#1: Verify that the coffee machine is switched on
 TC#2: Verify that the machine accepts the coffee beans as per coffee bean capacity
 TC#3: Verify that the machine grinds the beans for powder as per requirement
 TC#4: Verify that the coffee powder holder is correctly inserted to the machine
-TC#5:Verify the specific glass is placed over the machine
+TC#5: Verify the specific glass is placed over the machine
 TC#6: Verify that the consistency of the ingredients are as specified 
 TC#7: Verify that the milk frother produces required amount of froth at the specific speed 
 TC#8: Verify that the pump pressure is set as per requirement
-TC#9:Verify that the water capacity  is set as per requirement
+TC#9: Verify that the water capacity  is set as per requirement
 TC#10: Verify that the speed of the coffee machine is as per specification
 TC#11: Verify that the settings in the coffee machine such as intensity , coffee and milk length  is adjustable as per user’s inputs 
-TC#12:Verify that the water flow rate is regulated as per specification
-TC#13:Verify that the machine displays the status based on user’s inputs 
-TC#14:Verify that the milk is set at the right temperature
+TC#12: Verify that the water flow rate is regulated as per specification
+TC#13: Verify that the machine displays the status based on user’s inputs 
+TC#14: Verify that the milk is set at the right temperature
 TC#15: Verify that the pump pressure is set as per requirement
 TC#15: Verify that milk is added to the cup at the correct temperature
 TC#16: Verify that Water is set at the right temperature
